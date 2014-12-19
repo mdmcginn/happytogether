@@ -5,6 +5,7 @@ Happy Together is an experiment in making gadgets play nice. This prototype allo
 
 Interaction: Josh Clark (@globalmoxie)  
 Code: Larry Legend (@larrylegend)
+Demo on Vimeo: http://vimeo.com/86287024
 
 Requirements:
 
